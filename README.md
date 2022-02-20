@@ -8,4 +8,4 @@ everything in the world is honkey dory...
 </br>
 
 ## how can u reach me?
-[ [Twitter](https://twitter.com/i_am_j0hn)
+[Twitter](https://twitter.com/i_am_j0hn)
