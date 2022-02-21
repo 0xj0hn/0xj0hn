@@ -13,4 +13,4 @@ everything in the world is honkey dory...
 
 ## how can u reach me?
 [Twitter](https://twitter.com/i_am_j0hn) </br>
-[E-Mail](mailto:johnsec@yahoo.com?subject="hey there, John")
+[E-Mail](mailto:johnsec@yahoo.com?subject="hey%20there,%20John)
