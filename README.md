@@ -10,9 +10,10 @@ everything in the world is honkey dory...
 - Python
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xj0hn&theme=tokyonight&hide=html,css,scss" />
 </br>
+
 ## Fun Fact
 Linux isn't an OS :D
-</br>
+
 ## How can u reach me?
 [Twitter](https://twitter.com/i_am_j0hn) </br>
 [E-Mail](mailto:johnsec@yahoo.com?subject="hey%20there,%20John)
