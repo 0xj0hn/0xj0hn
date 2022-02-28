@@ -15,5 +15,5 @@ everything in the world is honkey dory...
 :trollface:Linux isn't an OS :D
 
 ## How can u reach me?
-[Twitter](https://twitter.com/i_am_j0hn) </br>
-[E-Mail](mailto:johnsec@yahoo.com)
+✴️ [Twitter](https://twitter.com/i_am_j0hn) </br>
+📧 [E-Mail](mailto:johnsec@yahoo.com)
