@@ -16,4 +16,4 @@ Linux isn't an OS :D
 
 ## How can u reach me?
 [Twitter](https://twitter.com/i_am_j0hn) </br>
-[E-Mail](mailto:johnsec@yahoo.com?subject="hey%20there,%20John)
+[E-Mail](mailto:johnsec@yahoo.com)
