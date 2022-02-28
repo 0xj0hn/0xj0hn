@@ -12,7 +12,7 @@ everything in the world is honkey dory...
 </br>
 
 ## Fun Fact
-Linux isn't an OS :D
+:trollface:Linux isn't an OS :D
 
 ## How can u reach me?
 [Twitter](https://twitter.com/i_am_j0hn) </br>
