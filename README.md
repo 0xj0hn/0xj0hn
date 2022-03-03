@@ -10,6 +10,9 @@ everything in the world is honkey dory...
 - Python
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xj0hn&theme=tokyonight&hide=html,css,scss" />
 </br>
+<a href="https://github.com/0xj0hn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=0xj0hn&theme=tokyonight&hide=html,css,scss"/>
+</a>
 
 ## Fun Fact
 :trollface:Linux isn't an OS :D
