@@ -1,4 +1,4 @@
-## Hi there, I'm Mohammad but everyone calls me John... you can call me John too 0_o
+## Hi there, I'm Mohammad mahdi but everyone calls me John... you can call me John too 0_o
 
 [![John's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xj0hn&theme=tokyonight&hide=html,css,scss)](https://github.com/0xj0hn/0xj0hn)
 [![John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0xj0hn&theme=tokyonight&hide=html,css,scss,Text,dosini)](https://github.com/0xj0hn/0xj0hn) </br>
