@@ -9,6 +9,8 @@ everything in the world is hunky-dory...
 
 ## Languages 🔨
 - C / C++
+- Rust
+- JavaScript(NodeJS)
 - Dart (Flutter)
 - Php
 - Python
@@ -16,7 +18,7 @@ everything in the world is hunky-dory...
 
 
 ## Fun Fact
-:trollface:Linux isn't an OS :D
+:trollface:Linux isn't an OS :D. GNU/Linux is an OS D:
 
 ## How can u reach me?
 ✴️ [Twitter](https://twitter.com/i_am_j0hn) </br>
