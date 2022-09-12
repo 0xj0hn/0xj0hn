@@ -4,7 +4,7 @@
 
 
 
-I'm orginally from iran and i've been freelancing with somebody...
+I'm orginally from iran and I've been freelancing with somebody...
 everything in the world is hunky-dory...
 
 ## Languages 🔨
@@ -14,13 +14,14 @@ everything in the world is hunky-dory...
 - Dart (Flutter)
 - Php
 - Python
+- C# (JUST FOR SCHOOL. IM NOT THE FAN)
 
 
 
 ## Fun Fact
 :trollface:Linux isn't an OS :D. GNU/Linux is an OS D:
 
-## How can u reach me?
+## How can you reach me?
 ✴️ [Twitter](https://twitter.com/i_am_j0hn) </br>
 📧 [E-Mail](mailto:johnsec@yahoo.com)
 
