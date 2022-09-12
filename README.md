@@ -4,14 +4,14 @@
 
 
 
-I'm orginally from iran and I've been freelancing with somebody...
+I'm orginally from Iran and I've been freelancing with somebody...
 everything in the world is hunky-dory...
 
 ## Languages 🔨
 - C / C++
 - Rust
 - JavaScript(NodeJS)
-- Dart (Flutter)
+- Dart(Flutter)
 - Php
 - Python
 - C# (JUST FOR SCHOOL. IM NOT THE FAN)
