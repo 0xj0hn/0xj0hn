@@ -1,5 +1,5 @@
 ## Hi there, My name's Mohammad Mahdi but everyone calls me John... you can call me John too 0_o
-[![John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0xj0hn)](https://github.com/0xj0hn/0xj0hn)
+[![John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0xj0hn&theme=nightowl)](https://github.com/0xj0hn/0xj0hn)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xj0hn&theme=tokyonight&hide=html,css,scss" alt="https://github.com/0xj0hn/0xj0hn"/>
 
 
