@@ -1,6 +1,6 @@
 ## Hi there, 
 <samp>Here's Mohammad Mahdi Bonyadi's Github page.<br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xj0hn&theme=nightowl&show_icons=true" alt="John"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xj0hn&theme=nightowl&show_icons=true" alt="John"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xj0hn&theme=nightowl&hide=html,css,scss" alt="https://github.com/0xj0hn/0xj0hn"/>
 
 
