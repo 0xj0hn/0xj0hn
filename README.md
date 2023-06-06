@@ -19,7 +19,7 @@ everything in the world is hunky-dory...
 
 
 ## Fun Fact
-<samp>:trollface:Linux isn't an OS :D. GNU/Linux is an OS D:
+<samp>:trollface:Linux isn't an OS :D. GNU/Linux is. D:
 
 ## <samp>How can you reach me?
 ✴️ [Twitter](https://twitter.com/i_am_j0hn) </br>
