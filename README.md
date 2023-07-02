@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xj0hn&theme=nightowl&hide=html,css,scss" alt="https://github.com/0xj0hn/0xj0hn"/>
 
 
-<samp>I'm originally from Iran and I've been freelancing with somebody...
+<samp>I'm originally from Iran...<br>
 everything in the world is hunky-dory...
 
 ## Languages 🔨
@@ -22,7 +22,15 @@ everything in the world is hunky-dory...
 <samp>:trollface:Linux isn't an OS :D. GNU/Linux is. D:
 
 ## <samp>How can you reach me?
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" href="">
-✴️ [Twitter](https://twitter.com/i_am_j0hn) </br>
-📧 [E-Mail](mailto:knightxh7@gmail.com)
+<a href="https://www.linkedin.com/in/mohammad-mahdi-bonyadi-56116325a">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a><br>
+
+<a href="mailto:knightxh7@gmail.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=gmail&logoColor=white">  
+</a><br>
+
+<a href="https://twitter.com/i_am_j0hn">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" >  
+</a><br>
 
