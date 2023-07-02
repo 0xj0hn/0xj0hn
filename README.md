@@ -8,20 +8,21 @@
 everything in the world is hunky-dory...
 
 ## Languages 🔨
-- <samp>C / C++
-- <samp>Rust
-- <samp>JavaScript(NodeJS)
-- <samp>Dart(Flutter)
-- <samp>Php
-- <samp>Python
-- <samp>C# (JUST FOR SCHOOL. IM NOT THE FAN)
+- ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
+- ![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=Rust&labelColor=black)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+- ![Dart(Flutter)](https://img.shields.io/badge/Flutter(Dart)-blue?style=for-the-badge&logo=Flutter)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge)
+- ![Python](https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=Python)
 
-
+## Operating System
+![Static Badge](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white)
 
 ## Fun Fact
 <samp>:trollface:Linux isn't an OS :D. GNU/Linux is. D:
 
 ## <samp>How can you reach me?
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" href="">
 ✴️ [Twitter](https://twitter.com/i_am_j0hn) </br>
 📧 [E-Mail](mailto:knightxh7@gmail.com)
 
