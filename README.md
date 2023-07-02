@@ -1,11 +1,7 @@
 ## Hi there, 
 <samp>Here's Mohammad Mahdi Bonyadi's Github page.<br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xj0hn&theme=nightowl&show_icons=true" alt="John"/><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xj0hn&theme=nightowl&hide=html,css,scss" alt="https://github.com/0xj0hn/0xj0hn"/>
-
-
-<samp>I'm originally from Iran...<br>
-everything in the world is hunky-dory...
+- <samp>I'm originally from Iran...<br>
+- everything in the world is hunky-dory...
 
 ## Languages 🔨
 - ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
@@ -20,6 +16,10 @@ everything in the world is hunky-dory...
 
 ## Fun Fact
 <samp>:trollface:Linux isn't an OS :D. GNU/Linux is. D:
+## Stat.
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xj0hn&theme=nightowl&show_icons=true" alt="John"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xj0hn&theme=nightowl&hide=html,css,scss" alt="https://github.com/0xj0hn/0xj0hn"/>
+
 
 ## <samp>How can you reach me?
 <a href="https://www.linkedin.com/in/mohammad-mahdi-bonyadi-56116325a">
