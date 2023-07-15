@@ -12,7 +12,7 @@
 - ![Python](https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=Python)
 
 ## Operating System
-![Static Badge](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Gnu\/Linux-black?style=for-the-badge&logo=Linux&logoColor=white)
 
 ## Fun Fact
 <samp>:trollface:Linux isn't an OS :D. GNU/Linux is. D:
