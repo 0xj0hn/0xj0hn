@@ -3,19 +3,19 @@
 - <samp>I'm originally from Iran...<br>
 - <samp>Everything in the world is hunky-dory...<be>
 
-## Languages 🔨
-- ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
+## Languages & Frameworks 🔨
+- ![Java](https://img.shields.io/badge/Kotlin-eee?style=for-the-badge&logo=kotlin)
 - ![Rust](https://img.shields.io/badge/Rust-dea584?style=for-the-badge&logo=Rust&labelColor=black)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+- ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
 - ![Dart(Flutter)](https://img.shields.io/badge/Flutter(Dart)-blue?style=for-the-badge&logo=Flutter)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge)
 - ![Python](https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=Python)
 
 ## Operating System
 ![GNU/Linux](https://img.shields.io/badge/Gnu\/Linux-black?style=for-the-badge&logo=Linux&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=Fedora&logoColor=white)
 
 ## Fun Fact
-<samp>:trollface:Linux isn't an OS :D. GNU/Linux is. D:
+<samp>:trollface: Linux isn't an OS :D. GNU/Linux is. D:
 ## Stat.
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xj0hn&theme=nightowl&show_icons=true" alt="John"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xj0hn&theme=nightowl&hide=html,css,scss" alt="https://github.com/0xj0hn/0xj0hn"/>
